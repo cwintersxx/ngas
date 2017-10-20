@@ -1,6 +1,4 @@
 '''
-Created on Oct 2, 2017
-
 @author: Joseph Randazzo
 '''
 from sqlalchemy import create_engine
