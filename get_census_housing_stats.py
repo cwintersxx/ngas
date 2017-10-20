@@ -1,5 +1,4 @@
 '''
-Created on Oct 16, 2017
 
 @author: J Randazzo
 '''
